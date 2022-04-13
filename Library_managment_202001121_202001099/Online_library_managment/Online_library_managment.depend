@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1623830625 source:d:\itsem2\group4-202001121_lab6\online_library_managment\main.cpp
+	<iostream>
+	<string>
+
+1623834979 source:d:\itsem2\project_endsem\library_managment_202001121_202001099\online_library_managment\main.cpp
+	<iostream>
+	<string>
+
